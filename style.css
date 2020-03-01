@@ -1,28 +1,22 @@
-/* body {
-    background-image: url("abstract-background-with-metallic-rose-gold-texture_1048-7968.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-   
-} */
+/* index.html */
 
 
 h1 {
-    padding-top: 20%;
-    padding-bottom: 25%;
+    padding-top: 35%;
+    padding-bottom: 0%;
     color: white;
+}
+
+h4 {
+    color: whitesmoke;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 body {
   background-image: url("black-lightbulb-background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-}
-
-a {
-    text-decoration: none;
-    color: whitesmoke;
-
 }
 
 .uk-form-label {
@@ -35,6 +29,7 @@ h2 {
 }
 
 .uk-panel {
+    padding-top: 10%;
     padding-right: 15%;
     padding-left: 15%;
     padding-bottom: 20%;
@@ -56,4 +51,7 @@ button {
     padding: 1%;
 }
 
+h3 {
+    text-align: center;
+}
 
