@@ -1,0 +1,59 @@
+/* body {
+    background-image: url("abstract-background-with-metallic-rose-gold-texture_1048-7968.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+   
+} */
+
+
+h1 {
+    padding-top: 20%;
+    padding-bottom: 25%;
+    color: white;
+}
+body {
+  background-image: url("black-lightbulb-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+.uk-form-label {
+    color: white;
+}
+
+h2 {
+    padding-top: 10%;
+    color: whitesmoke;
+}
+
+.uk-panel {
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-bottom: 20%;
+    color: white;
+}
+
+p {
+    padding-right: 5%;
+    text-align: right;
+}
+
+button {
+    float: right;
+    color: white;
+    text-emphasis-color: white;
+}
+
+.uk-card {
+    padding: 1%;
+}
+
+
