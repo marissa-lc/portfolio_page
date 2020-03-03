@@ -13,7 +13,7 @@ h4 {
     padding-right: 10%;
 }
 body {
-  background-image: url("black-lightbulb-background.jpg");
+  background-image: url("public/black-lightbulb-background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
