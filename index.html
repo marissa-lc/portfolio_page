@@ -14,10 +14,16 @@
   <link rel="javascript" href="script.js">
 </head>
 
+  <body onload=startTimer();>
+    <script>
+    function startTimer(){
+    var tt = setInterval(function() {
+        window.open ('about-me.html','_self',false)
+    },5000);
+    }
+    </script>
 
-<body>
-
-  <h1 class="uk-heading-line uk-text-center"><span>RISSA CRAWFORD</span></h1>
+  <h1 class="uk-heading-line uk-text-center"><span><a href="about-me.html" style="color: white;">RISSA CRAWFORD</a></span></h1>
   <h4 class="uk-heading-line uk-text-center" style="padding-bottom: 45%;"><span><a href="about-me.html" style="color: grey;">welcome</a></span></h4>
 
 
