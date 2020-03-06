@@ -14,3 +14,10 @@ UIkit.notification('My message');
 UIkit.notification('My message', status);
 UIkit.notification('My message', { /* options */ });
 
+
+// timer for homepage
+function startTimer(){
+    var tt = setInterval(function() {
+        window.open ('about-me.html','_self',false)
+    },5000);
+    }
